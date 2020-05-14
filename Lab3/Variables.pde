@@ -1,0 +1,9 @@
+final int A_RIGHT = 0;
+final int A_LEFT = 1;
+final int A_DOWN = 2;
+final int A_UP = 3;
+final int SCREEN_WIDTH = 480;
+final int SCREEN_HEIGHT = 480;
+final int ALIEN_WIDTH = 30;
+final int ALIEN_HEIGHT = 30;
+final int ALIEN_COUNT = 10;
